@@ -1,0 +1,2 @@
+"population_distribution","true_population_mean","population_log_sd","sample_seed","sample_size","observed_sample_mean","bootstrap_seed","bootstrap_repetitions","bootstrap_mean","bootstrap_standard_error","confidence_level","confidence_interval_method","ci_lower","ci_upper","interval_contains_true_mean"
+"Lognormal",10,0.6,6400,50,10.4586446871954,8640,5000,10.4630143920548,0.874999489331033,0.95,"Percentile bootstrap",8.79951442419689,12.2054842431845,TRUE

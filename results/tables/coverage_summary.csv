@@ -1,0 +1,2 @@
+"population_distribution","true_population_mean","population_standard_deviation","sample_size","confidence_level","confidence_interval_method","number_of_simulations","bootstrap_repetitions_per_simulation","simulation_seed","intervals_covering_true_mean","intervals_missing_true_mean","empirical_coverage_rate"
+"Normal",10,4,50,0.95,"Percentile bootstrap",2000,800,6400,1896,104,0.948

@@ -1,0 +1,7 @@
+"setting","value"
+"sample_size",50
+"bootstrap_resamples",2000
+"confidence_level",0.95
+"true_population_mean",10
+"population_log_sd",0.6
+"initial_seed",6400
